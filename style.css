@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+#seuemail{
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+   
+#suasenha{
+    text-align: center;
+}
+
+.usuario{
+    height: 400px;
+  text-align: center;
+  background-color: blue;
+  justify-content: center;
+  border-radius: 0px;
+}
